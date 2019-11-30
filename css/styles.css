@@ -1,0 +1,221 @@
+@font-face {
+    font-family: 'TengwarFormal';
+    src: url('../fonts/TengwarFormalCSUR.woff2') format('woff2'),
+            url('../fonts/TengwarFormalCSUR.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Annatar';
+    src: url('../fonts/tengwar-annatar-glaemscrafu.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Annatar Bold';
+    src: url('../fonts/tengwtengwar-annatar-glaemscrafu-bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Annatar Italic';
+    src: url('../fonts/tengwar-annatar-glaemscrafu-italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Parmaite';
+    src: url('../fonts/tengwar-parmaite-glaemscrafu.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+
+@font-face {
+    font-family: 'Eldamar';
+    src: url('../fonts/tengwar-eldamar-glaemscrafu.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Constructium';
+    src: url('../fonts/Constructium.woff2') format('woff2'),
+        url('../fonts/Constructium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'ElficCaslon';
+    src: url('../fonts/ElficCaslon.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'FreeMonoTengwar';
+    src: url('../fonts/FreeMonoTengwar-embedding.woff2')format('woff2'),
+         url('../fonts/FreeMonoTengwar-embedding.woff') format('woff');;
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'TengwarTelcontar';
+    src: url('../fonts/tengtelcOTL.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+
+
+@font-face {
+    font-family: 'Erebor';
+    src: url('../fonts/Erebor.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+
+@font-face {
+    font-family: 'EreborCap';
+    src: url('../fonts/Erebcap1.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Alethi';
+    src: url('../fonts/AlethiTS.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+
+@font-face {
+    font-family: 'Klingon';
+    src: url('../fonts/klingon.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Aurebesh';
+    src: url('../fonts/Aurebesh.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Gnommish';
+    src: url('../fonts/Gnommish.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+
+@font-face {
+    font-family: 'Steel';
+    src: url('../fonts/steelAlphabet.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Dovahzul';
+    src: url('../fonts/dragon_alphabet.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Hylian';
+    src: url('../fonts/TPHylian-GCNRegular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+
+@font-face {
+    font-family: 'Hylia';
+    src: url('../fonts/HyliaSerifBeta-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+
+@font-face {
+    font-family: 'Daedra';
+    src: url('../fonts/Daedra.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Futurama';
+    src: url('../fonts/futurama_alien.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Atlantean';
+    src: url('../fonts/Atlantean.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+
+@font-face {
+    font-family: 'Uruk';
+    src: url('../fonts/RUNE.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Unown';
+    src: url('../fonts/Unown.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+body {
+    color: #ddd;
+    background-color: #1d1d1d;
+}
+
+.block {
+    margin: auto;
+    margin-bottom: .7cm;
+}
