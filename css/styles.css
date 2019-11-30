@@ -219,3 +219,9 @@ body {
     margin: auto;
     margin-bottom: .7cm;
 }
+
+hr {
+width: 1200px;
+margin-left: auto;
+margin-right: auto;
+}
